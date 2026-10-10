@@ -1,10 +1,140 @@
-- 👋 Hi, I’m @Manuwa122
-- 👀 I’m interested in .hackimg..
-- 🌱 I’m currently learning ..school.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .whatsapp= 94740876205.
+<div align="center">
 
-<!---
-Manuwa122/Manuwa122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1d4ed8,100:06b6d4&height=220&section=header&text=Manuka%20Chamath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Web%20Designer%20%7C%20Tech%20Explorer&descSize=18&descAlignY=60" alt="Manuka Chamath developer banner" width="100%" />
+
+### 👋 Hello, world! I'm Manuka
+
+**Web developer · UI enthusiast · Building useful technology**
+
+*Turning ideas into interactive websites, applications, and smart automations.*
+
+[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-2563eb?style=for-the-badge)](https://manuwa122.github.io/My_Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Manuwa122-181717?style=for-the-badge&logo=github)](https://github.com/Manuwa122)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manukachamath1@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=Manuwa122&label=Profile%20views&color=0ea5e9&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Manuwa122?label=Followers&style=flat-square&logo=github)
+
+</div>
+
+---
+
+## 🚀 About me
+
+```javascript
+const manuka = {
+  name: "Manuka Chamath",
+  location: "Sri Lanka 🇱🇰",
+  interests: ["Web Development", "UI/UX", "Automation", "AI"],
+  currentlyBuilding: "MANUKA-MD 🤖",
+  mindset: "Learn. Build. Improve. Repeat."
+};
+```
+
+I'm a tech enthusiast from **Sri Lanka** who enjoys designing modern websites, experimenting with AI tools, and building practical software projects. I love learning by making things — from website interfaces and learning platforms to WhatsApp automation.
+
+- 🔭 **Building:** [MANUKA-MD](https://github.com/Manuwa122/MANUKA-MD), a feature-rich WhatsApp assistant
+- 💻 **Interested in:** Frontend development, backend systems, AI integrations and automation
+- 🎨 **Focused on:** Clean interfaces, responsive layouts and real-world user experiences
+- 🌱 **Learning through:** Hands-on projects and exploring new technologies
+- 🤝 **Open to:** Collaborations, feedback and interesting project ideas
+
+## 🛠️ Tools & Technologies
+
+<div align="center">
+
+**Languages & web**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql&theme=dark" alt="HTML, CSS, JavaScript, PHP, Python and MySQL" />
+
+**Frameworks & development tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,git,github,vscode,postman&theme=dark" alt="Node.js, Laravel, Git, GitHub, VS Code and Postman" />
+
+**Platforms & creative work**
+
+<img src="https://skillicons.dev/icons?i=aws,linux,windows,figma&theme=dark" alt="AWS, Linux, Windows and Figma" />
+
+</div>
+
+## 🌟 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [MANUKA-MD](https://github.com/Manuwa122/MANUKA-MD)
+
+An AI-powered WhatsApp assistant with multilingual replies, voice tools, sticker creation, media downloads, and group controls.
+
+**Node.js · JavaScript · Baileys · AI**
+
+[Explore project →](https://github.com/Manuwa122/MANUKA-MD)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [Learning Management System](https://github.com/Manuwa122/LMS)
+
+My learning-platform project, part of my interest in making digital learning experiences more accessible.
+
+**Web development · Education technology**
+
+[Explore repository →](https://github.com/Manuwa122/LMS)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Personal Portfolio](https://github.com/Manuwa122/My_Portfolio)
+
+My web portfolio showcasing projects, skills, and my work as a developer.
+
+**Portfolio · Responsive web design**
+
+[Visit live portfolio →](https://manuwa122.github.io/My_Portfolio/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 [More Experiments](https://github.com/Manuwa122?tab=repositories)
+
+A growing collection of coding experiments, web projects, and new ideas.
+
+**Learning · Prototyping · Building**
+
+[Browse repositories →](https://github.com/Manuwa122?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub at a glance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manuwa122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub profile statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuwa122&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages in public GitHub repositories" />
+
+<img src="https://streak-stats.demolab.com?user=Manuwa122&theme=tokyonight&hide_border=true" alt="GitHub activity streak" />
+
+</div>
+
+> Statistics are generated by third-party services from publicly available GitHub data, so they may occasionally be unavailable or cached.
+
+## 💬 Let's connect
+
+I'm interested in collaborating on useful software, creative web projects, and innovative automation tools. Feel free to explore my repositories, open an issue, or connect through my links.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore_My_Work-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manuwa122.github.io/My_Portfolio/)
+[![Repositories](https://img.shields.io/badge/PROJECTS-View_on_GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuwa122?tab=repositories)
+[![Email](https://img.shields.io/badge/CONTACT-Email_Me-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manukachamath1@gmail.com)
+
+**"Keep learning, keep building, keep improving."** ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1d4ed8,100:06b6d4&height=110&section=footer" alt="Decorative footer" width="100%" />
+
+</div>
